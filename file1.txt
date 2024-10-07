@@ -1,1 +1,2 @@
 welcome to js
+mongodb for database
